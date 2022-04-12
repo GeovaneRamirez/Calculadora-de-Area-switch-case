@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1647352597 source:c:\users\fatecano\documents\aulas de linguagem c\aula06_calculadordearea\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1649724953 source:c:\users\geova\downloads\aula06_calculadordearea\aula06_calculadordearea\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
